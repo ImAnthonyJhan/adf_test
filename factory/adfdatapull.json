@@ -1,0 +1,9 @@
+{
+	"name": "adfdatapull",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4f5a2362-c048-430f-8e37-b3f43a863a61",
+		"tenantId": "ea7a593b-312b-4bd7-ae2f-34878b73d39f"
+	}
+}
